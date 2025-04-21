@@ -1,0 +1,7 @@
+# ninja log v6
+32	1174	7564989618062508	CMakeFiles/PlaybackManagment.dir/Queue.cpp.obj	f3190bde742b5eda
+36	1251	7564989618102479	CMakeFiles/PlaybackManagment.dir/Song.cpp.obj	358b0c4007679756
+23	1334	7564989617982556	CMakeFiles/PlaybackManagment.dir/main.cpp.obj	be090ffb15ba771a
+1334	1767	7564989631082998	PlaybackManagment.exe	ba995be2db3e2dce
+9	827	7564991011013669	CMakeFiles/PlaybackManagment.dir/main.cpp.obj	be090ffb15ba771a
+827	956	7564991019191515	PlaybackManagment.exe	ba995be2db3e2dce

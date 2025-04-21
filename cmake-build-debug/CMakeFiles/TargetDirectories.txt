@@ -1,0 +1,3 @@
+C:/Users/Advance Win 10/CLionProjects/PlaybackManagment/cmake-build-debug/CMakeFiles/PlaybackManagment.dir
+C:/Users/Advance Win 10/CLionProjects/PlaybackManagment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Advance Win 10/CLionProjects/PlaybackManagment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
